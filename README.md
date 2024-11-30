@@ -1,6 +1,7 @@
 # Análise Estatística utilizando Pandas e Matplotlib
 Micro-Dados Utilizados:
 https://dados.gov.br/dados/conjuntos-dados/microdados-do-censo-escolar
+https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_2023.zip
 
 **Universo da aplicação:** levantamento de dados estatístico-educacionais de âmbito nacional realizado todos os anos e coordenado pelo Inep. Ele é feito com a colaboração das secretarias estaduais e municipais de Educação e com a participação de todas as escolas públicas e privadas do país. Utilizamos os microdados do ano passado…
 Microdados do Censo Escolar da Educação Básica 2023
